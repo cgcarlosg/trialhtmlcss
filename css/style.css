@@ -5,3 +5,7 @@
 #nav-bar{
     float: right;
 }
+#main{
+    height: Auto;
+    width: Auto;
+}
