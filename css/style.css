@@ -1,3 +1,7 @@
-#comentario{
-    text-align: center;
+#header-img{
+    max-width: 40%;
+    max-height: 40%;
+}
+#nav-bar{
+    float: right;
 }
