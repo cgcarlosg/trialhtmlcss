@@ -4,8 +4,17 @@
 }
 #nav-bar{
     float: right;
+    margin-top: auto;
 }
+
 #main{
     height: Auto;
-    width: Auto;
+    width: 100%;
+    text-align: center;
 }
+#form{
+    text-align: center;
+    padding-top: 20px;
+}
+
+   
